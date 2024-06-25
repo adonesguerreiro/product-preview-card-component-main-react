@@ -1,0 +1,8 @@
+.product-image {
+	img {
+		width: 18.75rem;
+		height: 28.125rem;
+		border-top-left-radius: 0.625rem;
+		border-bottom-left-radius: 0.625rem;
+	}
+}

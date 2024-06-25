@@ -1,0 +1,15 @@
+.product-card {
+	display: flex;
+	width: 37.5rem;
+	height: 28.125rem;
+	background-color: var(--neutral-color-3);
+	border-radius: 0.625rem;
+}
+
+@media screen and (max-width: 768px) {
+	.product-card {
+		display: grid;
+		width: 21.875rem;
+		height: 38.313rem;
+	}
+}
